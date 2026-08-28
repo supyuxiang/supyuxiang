@@ -1,4 +1,4 @@
-## Hey there 👋, name's Yuxiang Feng (冯羽翔)
+## Hey 👋, I am Yuxiang Feng (冯羽翔)
 
 ### About me
 
