@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Yuxiang Feng (冯羽翔)
 
 ### 📚 About Me
-- 🎓 Math undergrad @ DLUT → PhD candidate @ SJTU AI
+- 🎓 Math undergrad @ DLUT → PhD candidate @ SJTU SAI
 - 🔬 Foundation Models · LLM Pretraining
 - 🌐 Open to collaboration — feel free to reach out!
 
