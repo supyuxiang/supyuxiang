@@ -1,9 +1,7 @@
-## 👋 Hi, I'm Yuxiang Feng (冯羽翔)
+## Hi, I'm Yuxiang Feng (冯羽翔) 👋
 
-### 📚 About Me
-- 🎓 Math undergrad @ DLUT → PhD candidate @ SJTU SAI
-- 🔬 Foundation Models · LLM Pretraining
-- 🌐 Open to collaboration — feel free to reach out!
+### About me
 
-### 📫 Contact
-- WeChat: RL_yuu
+- 🎓 I'm an undergraduate student in **Mathematics and Applied Mathematics** at **Dalian University of Technology (DLUT)** and an **incoming Ph.D. student** at the School of Artificial Intelligence, **Shanghai Jiao Tong University (SJTU)**.
+- 🤖 My research interests include **foundation models**, **representation learning**, and **machine learning theory**.
+- ✨ I'm always happy to discuss research ideas and explore collaborations. Feel free to reach out on WeChat: **RL_yuu**.
